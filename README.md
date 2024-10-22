@@ -41,7 +41,7 @@ sqllite3
 10. PLAY MUSIC ```(COMMING SOON 🔜)```
 11. BOT HAVE ```3 ROLE``` ( ```ADMIN : ONLY ADMIN CAN ACCESS THESE COMMANDS```, ```MEMEBER : ANYONE CAN ACCESS THESE COMMANDS ``` , ```PAID: ONLY FOR PAID MEMEBER AND ADMINS ```) 
 
-
+---
 
 
 ## Contact
@@ -57,4 +57,4 @@ OFFICIAL CHANNEL LINK : [CLICK HERE ](https://t.me/villainbgmihack)
 
 OFFICIAL GROUP LINK : [CLICK HERE ](https://t.me/villainbotchatroom)
 
-
+---
