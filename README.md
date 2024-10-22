@@ -12,7 +12,20 @@ This bot is intended for educational purposes only. The misuse of this bot may r
 
 ---
 
+## BOT USING PYTHON PACKAGE 
 
+```py
+openai(chatgpt-4)
+web-socket
+web-client
+threading
+dns
+dns-python
+in-infoga
+pymongo
+sqllite3
+
+```
 ## Contact
 
 For any queries or support, contact [itz villain](https://t.me/itz_villain_30) on Telegram.
